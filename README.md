@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prerna Dubey!
-    ##A data analyst aspirant
+    #A data analyst aspirant
 - 👀 I'm enthusiastic about exploring data-related project opportunities.
 
 
